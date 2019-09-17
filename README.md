@@ -1,5 +1,5 @@
 <html style="background-color:#ebebe0;">
-<body>
+<body style="background-color:#ebebe0;">
 <h2 style="text-align:center;">Shlomo-Alexander Perlov Portofolio</h2>
 <li><a href="public/fver/a18h.html">vertical navbar</a></li>
 <li><a href="public/ng51/index.html">SPA with Angular5</a></li>
