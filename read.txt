@@ -12,6 +12,6 @@ https://perlov3301.github.io/nav/
   <li><a href="a01/a01.html">SPA with JQM: full REST with Backbone</a></li>
   git remote add origin https://github.com/perlov3301/navigator.git
        or
-  git remote set-url origin https://github.com/perlov3301/Portofolio.git
+  git remote set-url origin https://github.com/perlov3301/PerlovPortofolio.git
   git remote (we will see the world 'origin')
   git push -u origin master
