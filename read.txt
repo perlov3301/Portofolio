@@ -1,3 +1,4 @@
+https://perlov3301.github.io/nav/
 <li><a href="index.html">SPA with <b>Angular5</b>: converter</a></li>
   <li><a href="carousel10.html">Bootstrap app: coupons</a></li>
   <li><a href="lottoexh.html">SPA with JQM: lotto</a></li>
@@ -10,5 +11,7 @@
   <li><a href="a17var.html">JQM and plugin for Google Map:humusiot</a></li>
   <li><a href="a01/a01.html">SPA with JQM: full REST with Backbone</a></li>
   git remote add origin https://github.com/perlov3301/navigator.git
+       or
+  git remote set-url origin https://github.com/perlov3301/Portofolio.git
   git remote (we will see the world 'origin')
   git push -u origin master
