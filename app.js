@@ -35,19 +35,26 @@ app.get('/json', function(req, res)
             res.send(data);
          });
   });
-app.get('/', function(req, res)
-  {
-      console.log('from get/json');
-      fs.readFile(__dirname + "/public/" + "michelle.json",  "utf8",
-        function(err, data)
-         {
-           if (err) { console.log(err.toString()); }
-            console.log( data );
-            // res.end( data );
-            res.sendFile(__dirname + "/public/" + "michellebarker.html");
-         });
-  });
-  
+// app.get('/', function(req, res)
+//   {
+//       console.log('from get/json');
+//       fs.readFile(__dirname + "/public/" + "michelle.json",  "utf8",
+//         function(err, data)
+//          {
+//            if (err) { console.log(err.toString()); }
+//             console.log( data );
+//             // res.end( data );
+//             res.sendFile(__dirname + "/public/" + "michellebarker.html");
+//          });
+//   });
+app.get('/', function(req, res) {
+  res.sendFile(path.join(__dirname, 'public/buildreact', 'index.html'));
+});
+app.get('/michelle', function(req, res) {
+  res.sendFile(path.join(__dirname, 'public', 'michellebarker.html'));
+});
+
+
   app.get('/fnav', function(req, res)
   {
       console.log('from get/json');
@@ -231,13 +238,25 @@ app.get('/', function(req, res)
   app.get('/saradrasner', function(req, res)
   {
       console.log('from get/json');
-      fs.readFile(__dirname + "/public/" + "clarissa/a4.json",  "utf8",
+      fs.readFile(__dirname + "/public/" + "saradrasner/sara.json",  "utf8",
         function(err, data)
          {
            if (err) { console.log(err.toString()); }
             console.log( data );
             // res.end( data );
             res.sendFile(__dirname + "/public/" + "saradrasner/a11.html");
+         });
+  });
+  app.get('/locations', function(req, res)
+  {
+      console.log('json');
+      fs.readFile(__dirname + "/public/" + "buildreact/location.json",  "utf8",
+        function(err, data)
+         {
+           if (err) { console.log(err.toString()); }
+            console.log( data );
+            // res.end( data );
+            res.sendFile(__dirname + "/public/" + "buildreact/index.html");
          });
   });
 app.post('/add11', urlen , function (req, res)
