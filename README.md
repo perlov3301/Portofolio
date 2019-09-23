@@ -11,6 +11,7 @@
 <li><a href="public/quiz/qzbs.html">SPA with JQM:Quiz</a></li>
 <li><a href="public/expenses/aexh.html">SPA with JQM & IndexeddDB:expenses</a></li>
 <li><a href="public/fmg/mg.html">SPA with JQM: IQ test</a></li>
+<li><a href="public/humusiot/a17var.html">SPA with JQM: IQ test</a></li>
 <li><a href="public/backbone/a01.html">Backbone & JQM: Bank Account</a></li>
 </body>
 </html>
