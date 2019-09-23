@@ -17,8 +17,8 @@
     <li><a href="public/backbone/a01.html">Backbone & JQM: Bank Account</a></li>
   </fieldset>
   <fieldset style="border-radius:0.5em;">
-    <legend style="background-color: darkolivegreen;color: white;padding: 3px 10px 3px 10px;border-radius:0.3em;
-            >2017-2019</legend>
+   <legend style="background-color: darkolivegreen;color: white;padding: 3px 10px 3px 10px;border-radius:0.3em;"
+            >2017-2018</legend>
     <li><a href="public/ng51/index.html">SPA with Angular5</a></li>
   </fieldset>
 </body>
