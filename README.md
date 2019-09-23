@@ -2,6 +2,9 @@
 <body style="background-color:#ebebe0;">
   <h2 style="text-align:center;">Shlomo-Alexander Perlov Portofolio</h2>
   <fieldset>
+            <legend>test</legend>
+  </fieldset>
+  <fieldset>
     <legend>2014-2016</legend>
     <li><a href="public/fver/a18h.html">vertical navbar</a></li>
     <li><a href="public/coupons/carousel10.html">Bootstrap & JQM: coupons</a></li>
