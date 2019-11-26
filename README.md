@@ -11,7 +11,7 @@
     <li><a href="public/telaviv/qzbs.html">Bootstrap & jQuery UI: tel aviv</a></li>
     <li><a href="public/tiny/jqm1.html">Bootstrap within JQM:converter</a></li>
     <li><a href="public/quiz/qzbs.html">SPA with JQM:Quiz</a></li>
-    <li><a href="public/expenses/aexh.html">SPA with JQM & IndexeddDB:expenses</a></li>
+    <li><a href="public/expenses/aexh.html">SPA with JQM & IndexedDB:expenses</a></li>
     <li><a href="public/fmg/mg.html">SPA with JQM: IQ test</a></li>
     <li><a href="public/humusiot/a17var.html">SPA with JQM& plugin GoogleMap</a></li>
     <li><a href="public/backbone/a01.html">Backbone & JQM: Bank Account</a></li>
@@ -20,7 +20,7 @@
    <legend style="background-color: darkolivegreen;color: white;padding: 3px 10px 3px 10px;border-radius:0.3em;"
             >2017-2018</legend>
     <li><a href="public/ng51/index.html">SPA with Angular5</a></li>
-    <li><a href="https://perlov3301.github.io/reactlocations/"> SPA with Reactjs & ReactNative & ReactGoogleMap</a></li>
+    <li><a href="https://perlov3301.github.io/reactlocations/"> SPA with Reactjs & ReactNative & ReactGoogleMap & IndexedDB</a></li>
   </fieldset>
 </body>
 </html>
