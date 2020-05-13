@@ -21,6 +21,11 @@
             >2017-2018</legend>
     <li><a href="public/ng51/index.html">SPA with Angular5</a></li>
     <li><a href="https://perlov3301.github.io/reactlocations/"> SPA with Reactjs & ReactNative & ReactGoogleMap & PouchDB</a></li>
+      </fieldset>
+  <fieldset style="border-radius:0.5em;">
+   <legend style="background-color: darkolivegreen;color: white;padding: 3px 10px 3px 10px;border-radius:0.3em;"
+            >2019-2020</legend>
+    <li><a href="https://perlov3301.github.io/deploydist1/"> Angular 8/9</a></li>
   </fieldset>
 </body>
 </html>
