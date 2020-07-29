@@ -13,7 +13,7 @@
     <li><a href="public/quiz/qzbs.html">SPA with JQM:Quiz</a></li>
     <li><a href="public/expenses/aexh.html">SPA with JQM & IndexedDB:expenses</a></li>
     <li><a href="public/fmg/mg.html">SPA with JQM: IQ test</a></li>
-    <li><a href="public/humusiot/a17var.html">SPA with JQM& plugin GoogleMap</a></li>
+    <li><a href="public/humusiot/a17var.html">SPA with JQM& plugin GoogleMap: Locations</a></li>
     <li><a href="public/backbone/a01.html">Backbone&PHP & JQM: Bank Account</a></li>
   </fieldset>
   <fieldset style="border-radius:0.5em;">
