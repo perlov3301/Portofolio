@@ -4,7 +4,7 @@
   <fieldset style="border-radius:0.5em;">
     <legend style="background-color: darkolivegreen;color: white;padding: 3px 10px 3px 10px;border-radius:0.3em;"
             >2014-2016</legend>
-    <li><a href="public/fver/a18h.html">vertical navbar</a></li>
+    <li><a href="public/fver/a18h.html">just CSS: vertical navbar</a></li>
     <li><a href="public/coupons/carousel10.html">Bootstrap & JQM: coupons</a></li>
     <li><a href="public/lotto/lottoexh.html">SPA with JQM: lotto</a></li>
     <li><a href="public/converter/converh.html">SPA with JQM: converter</a></li>
