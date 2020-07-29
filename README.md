@@ -14,7 +14,7 @@
     <li><a href="public/expenses/aexh.html">SPA with JQM & IndexedDB:expenses</a></li>
     <li><a href="public/fmg/mg.html">SPA with JQM: IQ test</a></li>
     <li><a href="public/humusiot/a17var.html">SPA with JQM& plugin GoogleMap</a></li>
-    <li><a href="public/backbone/a01.html">Backbone & JQM: Bank Account</a></li>
+    <li><a href="public/backbone/a01.html">Backbone&PHP & JQM: Bank Account</a></li>
   </fieldset>
   <fieldset style="border-radius:0.5em;">
    <legend style="background-color: darkolivegreen;color: white;padding: 3px 10px 3px 10px;border-radius:0.3em;"
